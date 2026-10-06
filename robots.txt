@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://amrut-prajapati.github.io/sitemap.xml
